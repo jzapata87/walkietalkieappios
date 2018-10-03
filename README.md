@@ -1,6 +1,6 @@
 # walkietalkieappios
 
-Trying to make a copy of Zello app.  First going to use networking by Websockets first then UDP.
+Trying to make a copy of Zello app.  First going to use networking by Websockets then UDP.
 
 ## Built With
 
