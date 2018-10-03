@@ -1,0 +1,24 @@
+PODS:
+  - ClusterWS-Client-Swift (3.0.2)
+  - Socket.IO-Client-Swift (13.3.0):
+    - Starscream (~> 3.0.2)
+  - Starscream (3.0.5)
+
+DEPENDENCIES:
+  - ClusterWS-Client-Swift (~> 3.0.2)
+  - Socket.IO-Client-Swift (~> 13.3.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ClusterWS-Client-Swift
+    - Socket.IO-Client-Swift
+    - Starscream
+
+SPEC CHECKSUMS:
+  ClusterWS-Client-Swift: 530fa5f2ed2fd6d8b94d488805b1f0ba7343659d
+  Socket.IO-Client-Swift: 0afb192a562db90d50e3f7f7421c06925a3f0179
+  Starscream: faf918b2f2eff7d5dd21180646bf015a669673bd
+
+PODFILE CHECKSUM: a1ebe7ddffad9e48fb340a6127223324a0d4d6d0
+
+COCOAPODS: 1.5.3
